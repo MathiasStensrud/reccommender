@@ -58,4 +58,4 @@ Ratings data:
   <img width="450" height="250" src="images/Screen_Shot1.png">
 </p>
 
-![Prototype](ec2-18-237-252-110.us-west-2.compute.amazonaws.com:8080)
+[Prototype](ec2-18-237-252-110.us-west-2.compute.amazonaws.com:8080)
