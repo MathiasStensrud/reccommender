@@ -3,7 +3,7 @@ Alt Recommender Case Study
 </p>
 
 <p align="center">
-  <img width="400" height="250" src="images/image1.jpg">
+  <img width="400" height="250" src="images/intro1.jpg">
 </p>
 
 ##### Our Goal:
@@ -54,6 +54,8 @@ Our next steps would be to perform an AB test with a 95% confidence level (based
 Used spark-ASL for our recommender. For our prototype we deployed our recommender on a flask app.
 
 Ratings data:
-![](images/Screen_Shot1.png)
+<p align="center">
+  <img width="350" height="250" src="images/Screen_Shot1.png">
+</p>
 
 [Prototype](ec2-18-237-252-110.us-west-2.compute.amazonaws.com:8080)
