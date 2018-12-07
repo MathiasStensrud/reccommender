@@ -3,7 +3,7 @@ Alt Recommender Case Study
 </p>
 
 <p align="center">
-  <img width="400" height="250" src="images/intro1.jpg">
+  <img width="400" height="250" src="images/intro.jpg">
 </p>
 
 ##### Our Goal:
@@ -55,7 +55,7 @@ Used spark-ASL for our recommender. For our prototype we deployed our recommende
 
 Ratings data:
 <p align="center">
-  <img width="350" height="250" src="images/Screen_Shot1.png">
+  <img width="450" height="250" src="images/Screen_Shot1.png">
 </p>
 
 [Prototype](ec2-18-237-252-110.us-west-2.compute.amazonaws.com:8080)
